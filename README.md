@@ -7,9 +7,9 @@ You will be redirected to mcplug.ai to signin and then redirected back to Cursor
 ```json .cursor/mcp.json
 {
   "mcpServers": {
-    "beynar-resume": {
+    "arnaud-resume": {
       "command": "npx",
-      "args": ["mcp-remote", "https://connect.mcplug.ai/mcp?id=01JTT8M6779MNJXT08VVP9G347", "--http-only"]
+      "args": ["mcp-remote", "https://connect.mcplug.ai/mcp?id=01JTT9CYKNPCGK67M021AQTQQQ", "--http-only"]
     }
   }
 }

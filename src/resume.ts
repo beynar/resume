@@ -2,7 +2,7 @@ export const resume = {
   awards: [
     {
       title: "SvelteHack 2025",
-      date: "2025-02-01",
+      date: "2025",
       awarder: "Svelte Society",
       summary: "For the project SyncroState"
     }
@@ -45,7 +45,7 @@ export const resume = {
     {
       name: "MCPlug.ai",
       position: "Co-creator",
-      startDate: "2024-01-01",
+      startDate: "2025",
       endDate: "present",
       summary: "Open registry for hosting and distributing MCP servers",
       highlights: [
@@ -61,8 +61,7 @@ export const resume = {
     {
       name: "E-table",
       position: "Technical Co-founder",
-      startDate: "2024-06-01",
-      endDate: "2025-04-01",
+      startDate: "2024",
       summary: "Reservation management platform for restaurants. Alternative to ZenChef.",
       highlights: [
         "Managing a web team (2) and a mobile team (2)",
@@ -73,16 +72,16 @@ export const resume = {
     {
       name: "Revoltrain",
       position: "CTO",
-      startDate: "2023-07-01",
-      endDate: "2024-09-01",
+      startDate: "2023",
+      endDate: "2024",
       summary: "Online training startup (video editing, copywriting, virtual assistant).",
       highlights: ["Built an LMS from scratch for over 2,000 students, initially on Podia", "Currently closing down"]
     },
     {
       name: "Freelance (Super malter)",
       position: "Fullstack Developer",
-      startDate: "2020-01-01",
-      endDate: "2023-01-01",
+      startDate: "2020",
+      endDate: "2023",
       summary: "Various fullstack experiences with Next.js, Svelte, native and headless Shopify.",
       highlights: [
         "Lead developer for Paris Opera NFT platform (GraphQL server deployment, design system creation)",
@@ -93,8 +92,8 @@ export const resume = {
       name: "Thesis",
       position: "Technical Co-founder",
       location: "Aix en Provence",
-      startDate: "2018-01-01",
-      endDate: "2020-01-01",
+      startDate: "2018",
+      endDate: "2020",
       summary: "Platform designed to help students organize and format their research. Now discontinued."
     },
     {
@@ -102,8 +101,8 @@ export const resume = {
       position: "Technical Co-founder",
       url: "https://peers.press/",
       location: "Aix en Provence",
-      startDate: "2018-01-01",
-      endDate: "2021-01-01",
+      startDate: "2018",
+      endDate: "2021",
       summary: "Open platform for scientific publications.",
       highlights: [
         "Project funded with over 300K by Aix Marseille University",
@@ -171,7 +170,7 @@ export const resume = {
       name: "MCPlug.ai",
       description: "Open registry for hosting and distributing MCP servers to any AI client MCP host",
       url: "https://mcplug.ai",
-      startDate: "2025-04-01",
+      startDate: "2025",
       highlights: [
         "@mcplug/sdk: typesafe MCP SDK in a TRPC-like style matching MCP spec",
         "@mcplug/cli: CLI tool to simplify development and deployment experience",
