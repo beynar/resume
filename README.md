@@ -9,7 +9,7 @@ You will be redirected to mcplug.ai to signin and then redirected back to Cursor
   "mcpServers": {
     "beynar-resume": {
       "command": "npx",
-      "args": ["mcp-remote", "https://connect.mcplug.ai/mcp?id=01JTT73VKJW9TB44S4KPXKV21R", "--http-only"]
+      "args": ["mcp-remote", "https://connect.mcplug.ai/mcp?id=01JTT8M6779MNJXT08VVP9G347", "--http-only"]
     }
   }
 }
