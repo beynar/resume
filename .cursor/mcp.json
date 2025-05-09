@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "beynar-resume": {
+      "command": "npx",
+      "args": ["mcp-remote", "https://connect.mcplug.ai/mcp?id=01JTT8M6779MNJXT08VVP9G347", "--http-only"]
+    }
+  }
+}

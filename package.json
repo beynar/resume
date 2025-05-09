@@ -1,0 +1,38 @@
+{
+  "name": "beynar-resume",
+  "version": "1.0.2",
+  "description": "MCP resume of beynar",
+  "repository": {
+    "url": "https://github.com/beynar/resume"
+  },
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "publish": "npx mcplug publish",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "inspect": "npx @modelcontextprotocol/inspector@latest"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "latest",
+    "@mcplug/vite": "^1.0.15",
+    "@types/node": "^20.11.17",
+    "@vitest/ui": "latest",
+    "bun": "^1.2.12",
+    "cloudflare": "latest",
+    "vite": "latest",
+    "vitest": "latest",
+    "wrangler": "latest"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "dependencies": {
+    "@mcplug/server": "^2.0.17",
+    "bun-types": "^1.2.12",
+    "jsonresume-theme-elegant": "^1.16.1",
+    "zod": "^3.24.2"
+  }
+}
